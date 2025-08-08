@@ -1,6 +1,7 @@
 # Refusal Analysis
 
-This repository contains the SAS script, dataset, and output tables used to analyze refusal patterns from survey data.  
+This repository contains the SAS script, **synthetic dataset**, and output tables used to analyze refusal patterns from survey data.  
+The dataset has been generated to **mimic the structure** of the original study data but contains **no real respondent information**.  
 The analysis focuses on identifying the association between refusal types, demographic/geographic factors, and interview phases using frequency distributions and multinomial logistic regression.
 
 ---
@@ -59,7 +60,7 @@ This analysis is based on the following publication:
 > Hyder, S., Bilal, L., Mneimneh, Z., **Naseem, M. T.**, DeVol, E., Aradati, M., Shahab, M., BinMuammar, A., Al-Subaie, A., Al-Habeeb, A., & Altwaijri, Y. (2021). *Content Analysis and Predicting Survey Refusal: What Are Respondents’ Concerns about Participating in a Face-to-face Household Mental Health Survey?* **Field Methods**, 33(4), 377–394.  
 > [https://doi.org/10.1177/1525822x211000856](https://doi.org/10.1177/1525822x211000856)
 
-Please cite this paper if you use the code, methodology, or dataset structure from this repository.
+**Note:** This repository does **not** contain the original dataset used in the publication. The included dataset is **synthetic** and intended for demonstration and reproducibility of the code only.
 
 ---
 
