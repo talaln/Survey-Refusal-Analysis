@@ -19,7 +19,7 @@ The analysis produces:
 
 Below is a preview of **Table 1** from the analysis:
 
-![Sample Output Table 1](table1_preview.png)
+![Sample Output Table 1](Table 1.png)
 
 ---
 
