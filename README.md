@@ -5,26 +5,6 @@ The analysis focuses on identifying the association between refusal types, demog
 
 ---
 
-## 📂 Repository Structure
-
-Refusal_Analysis/
-│
-├── Data/
-│ └── Refusal_Data.xlsx # Synthetic version of the dataset (safe to share)
-│
-├── Scripts/
-│ └── refusal_analysis.sas # Main SAS script to reproduce all tables
-│
-├── Out/
-│ ├── refusal_analysis_tables.xlsx # Excel output from SAS
-│ └── refusal_analysis_tables.rtf # RTF output from SAS
-│
-└── README.md # Project documentation
-
-
-
----
-
 ## 📊 Analysis Overview
 
 The analysis produces:
